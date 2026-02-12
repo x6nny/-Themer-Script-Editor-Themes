@@ -9,7 +9,7 @@ Tired of the default script editor colors? Themer is a lightweight, intuitive pl
 ## ✨ Key Features
 
 * **🎨 Preset Library:** Jumpstart your workflow with a collection of curated themes.
-* **💾 Persistent Custom Themes:** Import your own JSON-based themes. Unlike manual overrides, these save across your Studio sessions automatically.
+* **💾 Persistent Custom Themes:** Import your own themes. Unlike manual overrides, these save across your Studio sessions automatically.
 * **📥 Easy Management:** To keep your library clean, simply **right-click** any custom theme to remove it instantly.
 * **📤 Theme Exporting:** Love your current setup? Export your current script editor settings into a shareable format with one click.
 
