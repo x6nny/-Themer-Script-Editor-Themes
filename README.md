@@ -36,7 +36,7 @@ If your library is getting cluttered, just **right-click** on any custom theme e
 ## 🔗 Links
 
 * **Install the Plugin:** [marketplace](https://create.roblox.com/store/asset/84660622002844/Themer-Script-Editor-Themes)
-* **Download the rbmx:** [releases]()
+* **Download the rbmx:** [releases](https://github.com/x6nny/-Themer-Script-Editor-Themes/releases/tag/RELEASE)
 
 ## 💬 Feedback
 
